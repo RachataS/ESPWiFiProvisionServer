@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: wifi_prov_mgr
+# Project: ESPWiFiProvisionServer
 # Configurations: 
 # =============================================================================
 # =============================================================================
@@ -14,7 +14,7 @@
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__wifi_prov_mgr.2eelf_
+rule C_COMPILER__ESPWiFiProvisionServer.2eelf_
   depfile = $DEP_FILE
   deps = gcc
   command = /Users/rachatasupanurak/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -24,7 +24,7 @@ rule C_COMPILER__wifi_prov_mgr.2eelf_
 #############################################
 # Rule for linking CXX executable.
 
-rule CXX_EXECUTABLE_LINKER__wifi_prov_mgr.2eelf_
+rule CXX_EXECUTABLE_LINKER__ESPWiFiProvisionServer.2eelf_
   command = $PRE_LINK && /Users/rachatasupanurak/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
@@ -1595,7 +1595,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_qrcode_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/rachatasupanurak/.espressif/tools/cmake/3.23.1/CMake.app/Contents/bin/cmake --regenerate-during-build -S/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server -B/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build
+  command = /Users/rachatasupanurak/.espressif/tools/cmake/3.23.1/CMake.app/Contents/bin/cmake --regenerate-during-build -S/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer -B/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build
   description = Re-running CMake...
   generator = 1
 

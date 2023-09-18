@@ -1,4 +1,4 @@
-# Install script for directory: /Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/main
+# Install script for directory: /Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

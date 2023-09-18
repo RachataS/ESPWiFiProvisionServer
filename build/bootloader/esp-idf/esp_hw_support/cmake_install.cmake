@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
+  include("/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
 
 endif()
 

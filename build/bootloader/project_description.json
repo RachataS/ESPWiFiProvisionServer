@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "/Users/rachatasupanurak/esp/esp-idf/components/bootloader/subproject",
-    "build_dir":          "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader",
-    "config_file":        "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/sdkconfig",
+    "build_dir":          "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader",
+    "config_file":        "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

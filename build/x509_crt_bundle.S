@@ -1,4 +1,4 @@
-/* * Data converted from /Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/CMakeFiles/bootloader"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/CMakeFiles/bootloader.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/Users/rachatasupanurak/myTask/ESP/wifi_prov_mgr_LED_server/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/Users/rachatasupanurak/myTask/ESPWiFiProvisionServer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		}
 	],
 	"target" : 
