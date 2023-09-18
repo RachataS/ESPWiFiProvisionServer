@@ -1,5 +1,27 @@
 # Wi-Fi Provisioning Manager Example
 
+## output
+
+เมื่อ upload code เข้าสู้บอร์ดเรียบร้อยแล้ว terminal จะแจ้งสถานะว่า server กำลังทำงานและบอก IP
+
+![Screenshot 2566-09-18 at 18 56 37](https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/e659eaf5-90e3-47d7-bd85-8fda00302928)
+
+เมื่อเข้าสู่เว็บไซต์โดยใช้ IP จะเจอกับหน้าเว็บที่มช้ควยคุม LED
+
+<img width="1319" alt="Screenshot 2566-09-18 at 18 58 09" src="https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/60558c0f-6d5d-4442-983c-72ae29c15e0e">
+
+เมื่อกดปุ่มหน้าเว็บจะบอกว่าไฟติดหรือดับและเปลี่ยนสถานะไฟที่บอร์ดและ terminal จะบอกสถานะว่าป่มถูกกด
+
+<img width="731" alt="Screenshot 2566-09-18 at 18 58 53" src="https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/127af261-eaa7-4169-875c-beda2cd2f6c5">
+
+![IMG_6191](https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/2768bdf3-75d9-4e8f-86e7-fe3d90a5e0aa)
+
+<img width="686" alt="Screenshot 2566-09-18 at 18 59 34" src="https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/95d2fe7e-a01b-470a-a2ff-c02d6cb20216">
+
+![IMG_6192](https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/74df9f1b-20c1-4170-83b8-db6ccc364331)
+
+![Screenshot 2566-09-18 at 19 00 38](https://github.com/RachataS/ESPWiFiProvisionServer/assets/115066261/80de52b6-6b76-4d31-bca5-5621d2f457e4)
+
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
 `wifi_prov_mgr` example demonstrates the usage of `wifi_provisioning` manager component for building a provisioning application.
